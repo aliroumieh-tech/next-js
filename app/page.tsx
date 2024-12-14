@@ -1,3 +1,7 @@
-export default function Home() {
-  return <h1 className="text-3xl">woel</h1>;
-}
+import React from "react";
+
+const Page = () => {
+  return <div>hello world</div>;
+};
+
+export default Page;
